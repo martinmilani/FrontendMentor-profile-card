@@ -12,9 +12,6 @@ module.exports = {
       fontFamily: {
         body: ["Kumbh Sans"],
       },
-      backgroundImage: (theme) => ({
-        "card-pattern": "url('/build/images/bg-pattern-card.svg')",
-      }),
       minWidth: {
         0: "0",
         min: "375px",
