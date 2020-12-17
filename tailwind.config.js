@@ -13,7 +13,7 @@ module.exports = {
         body: ["Kumbh Sans"],
       },
       backgroundImage: (theme) => ({
-        "card-pattern": "url('./images/bg-pattern-card.svg')",
+        "card-pattern": "url('/build/images/bg-pattern-card.svg')",
       }),
       minWidth: {
         0: "0",
